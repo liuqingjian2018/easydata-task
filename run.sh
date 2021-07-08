@@ -1,0 +1,1 @@
+go run main.go > `date +%Y%m%d`.log &
